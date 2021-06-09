@@ -1,0 +1,42 @@
+body{
+    background-attachment: fixed;
+}
+
+.p1{
+    background-color:rgb(12, 207, 233);
+    border-style: double;
+    border-color:blue;
+    margin-left: 430px;
+    margin-right: 430px;
+    
+}
+
+.p2{
+
+}
+
+.p3{
+    margin-left: 430px;
+    margin-right: 430px;
+    border: 3px solid white;
+}
+
+.p4{
+    margin-left: 430px;
+    margin-right: 430px;
+    border: 3px solid rgb(19, 199, 139);
+}
+
+
+    
+a{
+    color: red;
+    text-decoration: none;
+    background-color: rgb(35, 20, 248);
+    font-size: 50px;
+    margin: 550px;
+}
+a:hover{
+    color:aliceblue;
+    background-color:rgb(0, 0, 3);
+}
