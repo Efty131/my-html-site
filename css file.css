@@ -16,18 +16,22 @@ body{
 }
 
 .p3{
-    margin-left: 430px;
-    margin-right: 430px;
+    margin-left: 230px;
+    margin-right: 230px;
     border: 3px solid white;
 }
 
 .p4{
-    margin-left: 430px;
-    margin-right: 430px;
+    margin-left: 550px;
+    margin-right: 550px;
     border: 3px solid rgb(19, 199, 139);
 }
 
-
+.p5{
+    margin-left: 550px;
+    margin-right: 550px;
+    border: 3px solid yellow;
+}
     
 a{
     color: red;
