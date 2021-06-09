@@ -32,6 +32,16 @@ body{
     margin-right: 550px;
     border: 3px solid yellow;
 }
+
+.audio{
+
+    font-size:50px; text-align:center; color:aliceblue;
+    background-color: rgb(0, 0, 0);
+    border: 3px solid white;
+    margin-left: 430px;
+    margin-right: 430px;
+
+}
     
 a{
     color: red;
@@ -43,4 +53,8 @@ a{
 a:hover{
     color:aliceblue;
     background-color:rgb(0, 0, 3);
+}
+
+.div1{
+    margin-left: 500px;
 }
