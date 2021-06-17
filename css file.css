@@ -29,14 +29,14 @@ body{
     margin-left: 550px;
     margin-right: 550px;
     border: 3px solid rgb(19, 199, 139);
-    max-width: 400px;
+    
 }
 
 .p5{
     margin-left: 550px;
     margin-right: 550px;
     border: 3px solid yellow;
-    max-width: 400px;
+    
 }
 
 .audio{
@@ -46,7 +46,7 @@ body{
     border: 3px solid white;
     margin-left: 430px;
     margin-right: 430px;
-    max-width: 400px;
+    
 
 }
     
