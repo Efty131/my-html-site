@@ -119,9 +119,10 @@ a:active{
        font-size:20px;
        color:aqua;
        background-color:green;
-       margin-left: 150px;
-       margin-right: 10px;
+       width:100px;
+       margin-left: auto;
        
+
    }
    .p5{
        margin-left:500px;
