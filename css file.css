@@ -1,5 +1,6 @@
 body{
-    background-repeat: 2;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-attachment: fixed;
 }
 
@@ -53,7 +54,7 @@ body{
     font-size:50px;
     text-align:center; 
     color:aliceblue;
-   background-color:black;
+   background-color:green;
    border: 3px solid rgb(0, 107, 247);
 
    margin-left: 550px;
@@ -67,8 +68,8 @@ body{
      text-align:center; 
      color:aliceblue;
     background-color:black;
-    border: 3px solid white;
-max-width: 300px;
+    border: 3px solid rgb(240, 11, 11);
+    max-width: 300px;
     margin-left: auto;
     margin-right: auto;
     
@@ -128,7 +129,7 @@ a:active{
 }
 /* done ✔ */
 /*Mobile View*/
-@media only screen and (max-width:360px){
+@media only screen and (max-width:400px){
 
     
      
