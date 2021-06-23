@@ -118,11 +118,11 @@ a:active {
 
 
 .pic1 {
-    margin: auto;
+ 
 }
 
 .pic2 {
-    margin: auto;
+    
 }
 
 .t1 {
@@ -160,17 +160,17 @@ a:active {
 
 
 
-    .div1 {}
+    
 
-    .yt1 {
+    .yt1 { 
 
 
-        width: auto;
+        width: 100%;
         height: auto;
     }
 
     .yt2 {
-        width: auto;
+        width: 100%;
         height: auto;
     }
 
@@ -211,8 +211,8 @@ a:active {
         border: 2px solid green;
         text-align: center;
         width: 100px;
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 120px;
+        
     }
 
     .p3 {
@@ -234,18 +234,18 @@ a:active {
     .p1 {
         font-size: 30px;
         background-color: rgb(85, 214, 247);
-        margin-left: 0px;
-        margin-right: 10px;
+        margin-left: 19px;
+        margin-right: 38px;
         border: 2px solid green;
     }
 
     .pic1 {
 
-        max-width: 320px;
+        max-width: 100%;
     }
 
     .pic2 {
-        max-width: 320px;
+        max-width: 100%;
     }
 
     .mp3 {
