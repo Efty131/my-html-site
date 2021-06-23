@@ -117,13 +117,9 @@ a:active {
 
 
 
-.pic1 {
- 
-}
+.pic1 {}
 
-.pic2 {
-    
-}
+.pic2 {}
 
 .t1 {
     background-color: black;
@@ -160,9 +156,9 @@ a:active {
 
 
 
-    
 
-    .yt1 { 
+
+    .yt1 {
 
 
         width: 100%;
@@ -209,10 +205,10 @@ a:active {
         color: blue;
         background-color: rgb(253, 253, 253);
         border: 2px solid green;
-        text-align: center;
         width: 100px;
         margin-left: 120px;
-        
+        margin-right: 100px;
+
     }
 
     .p3 {
@@ -233,10 +229,13 @@ a:active {
 
     .p1 {
         font-size: 30px;
-        background-color: rgb(85, 214, 247);
-        margin-left: 19px;
-        margin-right: 38px;
+        color: rgb(7, 7, 7);
+        background-color: rgb(52, 241, 255);
         border: 2px solid green;
+        text-align: center;
+        
+        margin-left: 22px;
+        margin-right: 35px;
     }
 
     .pic1 {
