@@ -203,7 +203,7 @@ a:active {
     .p4 {
         font-size: 20px;
         color: blue;
-        background-color: rgb(253, 253, 253);
+        background-color: rgb(2, 2, 2);
         border: 2px solid green;
         width: 100px;
         margin-left: 120px;
@@ -233,7 +233,7 @@ a:active {
         background-color: rgb(52, 241, 255);
         border: 2px solid green;
         text-align: center;
-        
+        width: 100%;
         margin-left: 22px;
         margin-right: 35px;
     }
