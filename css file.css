@@ -200,8 +200,9 @@ a:active {
     color: black;
     background-color: aliceblue;
 }
-.ui{
-    color:blue;
+
+.ui {
+    color: blue;
     text-decoration: none;
     background-color: rgb(255, 255, 255);
     font-size: 30px;
@@ -389,6 +390,14 @@ a:active {
     a:active {
         color: black;
         background-color: aliceblue;
+    }
+
+    .ui {
+        color: blue;
+        text-decoration: none;
+        background-color: rgb(255, 255, 255);
+        font-size: 30px;
+        margin-left: 75px;
     }
 
 
