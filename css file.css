@@ -107,7 +107,7 @@ body {
     color: rgb(2, 2, 2);
     text-align: center;
     font-size: 50px;
-    background-color: rgb(250, 4, 4);
+    background-color: rgb(255, 253, 253);
     margin-left: 400px;
     margin-right: 400px;
     border: 3px solid rgba(60, 17, 252, 0.966);
@@ -183,9 +183,9 @@ body {
 }
 
 a {
-    color: red;
+    color: rgb(250, 51, 2);
     text-decoration: none;
-    background-color: rgb(1, 173, 24);
+    background-color: rgb(66, 10, 221);
     font-size: 50px;
     margin-left: 560px;
 
@@ -200,7 +200,13 @@ a:active {
     color: black;
     background-color: aliceblue;
 }
-
+.ui{
+    color:blue;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-left: 560px;
+}
 
 
 .pic1 {}
