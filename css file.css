@@ -12,6 +12,8 @@ body {
 }
 
 
+
+
 .ac {
     font-size: 30px;
     color: #333;
@@ -97,6 +99,7 @@ body {
 
 }
 
+
 .mp3 {
     margin-left: 520px;
 }
@@ -113,6 +116,8 @@ body {
     border: 3px solid rgba(60, 17, 252, 0.966);
 
 }
+
+
 
 
 
@@ -159,6 +164,10 @@ body {
     margin-left: 550px;
     margin-right: 550px;
 
+}
+.video1{
+    width: 100%;
+    
 }
 
 .p6 {
